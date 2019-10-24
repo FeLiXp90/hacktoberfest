@@ -1,4 +1,2 @@
 # hacktoberfest
-hacktoberfest 
-
-Qualquer coisa ai
+hacktoberfest
